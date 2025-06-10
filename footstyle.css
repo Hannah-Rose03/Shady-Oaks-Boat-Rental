@@ -1,0 +1,23 @@
+.footerdiv {
+  color: #8B0000;
+  font-family: verdana;
+  width: 100%;
+  border-top: double;
+  border-top-width: thick;
+  background-color: #EBF4FA
+}
+
+
+.foottable {
+  text-align: center;
+  vertical-align: middle;
+  width: 98%;
+}
+
+
+.foottable th, .foottable td {
+  text-align: center;
+  vertical-align: middle;
+  width: 33%;
+  color: #8B0000;
+}

@@ -1,0 +1,51 @@
+.SummerHours {
+  color: #8B0000;
+  font-family: verdana;
+  text-align: center;
+}
+
+.Infodiv {
+  color: #8B0000;
+  font-family: verdana;
+  text-align: center;
+}
+
+.InfoTable {
+  color: #8B0000;
+  font-family: verdana;
+}
+
+.InfoTable th {
+  width: 25%;
+  text-align: center;
+  vertical-align: center;
+}
+
+.InfoTable td {
+  width: 25%;
+  text-align: left;
+  vertical-align: top;
+}
+
+.pricetable {
+  width: 100%;
+  color: #8B0000;
+  font-family: verdana;
+}
+
+.pricetable th {
+  width: 100%;
+  text-align: center;
+  vertical-align: center;
+}
+
+.pricetable td {
+  border: 1px solid #8B0000;
+  width: 33%;
+  text-align: left;
+  vertical-align: center;
+}
+
+.pricetable tr {
+  border-top: 10px;
+}

@@ -1,0 +1,47 @@
+<body>
+div h1 {
+  color: #8B0000;
+  font-family: verdana;
+}
+.headingdiv {
+  color: #8B0000;
+  font-family: verdana;
+  text-align: center;
+}
+
+.T_Ctable {
+  color: #8B0000;
+  font-family: verdana;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.T_Ctable th {
+  padding-bottom: 1.5%;
+  padding-left: 1%;
+  padding-right: 1%;
+  border: 1px solid;
+
+}
+
+.T_Ctable td {
+  padding-bottom: 1.5%;
+  padding-left: 1%;
+  padding-right: 1%;
+  border: 1px solid;
+
+}
+
+.T_Cdiv p {
+  color: #8B0000;
+  font-family: verdana;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.disclaimerdiv {
+  color: #8B0000;
+  text-align: center;
+}
+
+</body>
